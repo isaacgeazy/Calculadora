@@ -50,7 +50,7 @@ Baixe o arquivo abaixo. Descompacte na pasta desejada.
 
 
 
-[🗃 Download do arquivo .zip](dist/Calculadora.zip)
+[🗃 Download do arquivo .zip](dist/Calculadora.zip.zip)
 
 Execute utilizando o comando:
 
