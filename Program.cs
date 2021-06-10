@@ -292,7 +292,7 @@ namespace projetin
     Console.WriteLine();
     Console.WriteLine("Esse é o meu primeiro programa, feito para o fim do 1º módulo do curso de Informática. Ele é o resultado do conhecimento que obtive durante esse módulo. Espero que gostem!");
     Console.WriteLine();
-    Console.Write("Link para o programa e rede social: https://github.com/isaacgeazy/Calculadora");
+    Console.Write("Link para o site: https://isaacgeazy.github.io/Calculadora/");
       }
   static void Opcao0()
          {
