@@ -58,7 +58,7 @@ Execute utilizando o comando:
  dotnet projetin.dll
 ```
 
-## Agradecimento
+## Agradecimentos
 
 - [Etec Adolpho Berezin](http://eteab.com.br/)
 - [Prof Ermogenes](https://github.com/ermogenes)
