@@ -50,7 +50,7 @@ Baixe o arquivo abaixo. Descompacte na pasta desejada.
 
 
 
-[🗃 Download do arquivo .zip](dist/Calculadora.zip.zip)
+[🗃 Download do arquivo .zip](dist/Calculadora.zip)
 
 Execute utilizando o comando:
 
@@ -63,5 +63,6 @@ Execute utilizando o comando:
 - [Etec Adolpho Berezin](http://eteab.com.br/)
 - [Prof Ermogenes](https://github.com/ermogenes)
 - [Dev C#](https://github.com/isaacgeazy/Calculadora)
+
 
 Todos os direitos reservados. PIRATARIA É CRIME.

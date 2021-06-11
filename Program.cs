@@ -408,7 +408,8 @@ namespace projetin
     Console.Write("Opção..: ");
     opV = Console.ReadLine().ToUpper();
     
-    if(opV == "V"){
+    if(opV == "V")
+    {
     
     Console.Clear();
 
